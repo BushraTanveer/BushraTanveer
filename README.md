@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BushraTanveer
 - 👀 I’m interested in Machine Learning and Digital Image Processing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Flutter and Machine Learning
+- 💞️ I’m looking to collaborate with aunties for their son's rishta 
+- 📫 How to reach me: LinkedIn - https://linkedin.com/in/bushra-tanveer 
 
 <!---
 BushraTanveer/BushraTanveer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
