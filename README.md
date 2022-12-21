@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BushraTanveer
 - 👀 I’m interested in Machine Learning and Digital Image Processing
 - 🌱 I’m currently learning Flutter and Machine Learning
-- 💞️ I’m looking to collaborate with aunties for their son's rishta 
+- 💞️ I’m looking to collaborate on Programming and Embedded System projects 
 - 📫 How to reach me: LinkedIn - https://linkedin.com/in/bushra-tanveer 
 
 <!---
